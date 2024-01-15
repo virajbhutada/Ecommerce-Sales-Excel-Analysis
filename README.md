@@ -33,6 +33,8 @@ Explore additional insights with this snapshot, highlighting specific analyses, 
 - Conduct detailed analyses, including category-wise profit and top-selling products.
 - Incorporate KPIs for year-on-year growth and visual sparklines for trend representation.
 
+---
+
 ## Dataset
 
 Explore the dataset used in this project: [E-commerce Sales Dataset](https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?usp=sharing)
@@ -56,7 +58,9 @@ Follow these steps to get started with the E-commerce Sales Analysis Dashboard:
 
 ## Contributing
 
-I welcome contributions! If you have any ideas for improvement or encounter issues, please open an issue or submit a pull request.
+I welcome contributions! If you have any ideas for improvement or encounter issues, please open an issue or submit a [pull request](https://github.com/virajbhutada/Ecommerce-Sales-Excel-Analysis/pulls).
+
+---
 
 ## License
 
@@ -64,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-
+## Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
