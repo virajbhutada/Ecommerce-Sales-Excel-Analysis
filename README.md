@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Dashboard - Excel
+# E-commerce Sales Analysis Dashboard - MS Excel
 
 Dive into comprehensive e-commerce sales analytics with this Excel-based dashboard. Gain valuable insights into key metrics, visualize trends, and make informed business decisions.
 
