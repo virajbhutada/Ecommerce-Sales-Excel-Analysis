@@ -6,6 +6,8 @@
 
 Welcome to the E-commerce Sales Analysis Dashboard GitHub repository! This Excel-based tool offers comprehensive insights into e-commerce sales, allowing you to analyze key metrics, visualize trends, and make informed decisions.
 
+---
+
 ## Features
 
 - Calculate total sales, profit, quantity, orders, and profit margin.
@@ -16,6 +18,9 @@ Welcome to the E-commerce Sales Analysis Dashboard GitHub repository! This Excel
 ## Dataset
 
 Explore the dataset used in this project: [E-commerce Sales Dataset](https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?usp=sharing)
+
+
+---
 
 ## Getting Started
 
@@ -29,6 +34,8 @@ Follow these steps to get started with the E-commerce Sales Analysis Dashboard:
 
 2. Open the Excel file and start exploring the dashboard.
 
+---
+
 ## Contributing
 
 We welcome contributions! If you have any ideas for improvement or encounter issues, please open an issue or submit a pull request.
@@ -39,8 +46,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Note:** Replace the placeholder text with more specific details about your project, such as installation instructions, usage guidelines, or any additional sections you want to include.
 
-```
-
-Remember to replace the placeholder text with relevant and specific information about your project. Additionally, ensure that the image link and dataset link are correct and accessible.
